@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The duty of subjects reinforc't, especially in the choice of their representatives to sit in Parliament in a letter to a friend, occasioned by His Majesty's most gracious declaration in Council.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37104</idno>
+            <idno type="STC">Wing D2913</idno>
+            <idno type="STC">ESTC R3198</idno>
+            <idno type="EEBO-CITATION">11788982</idno>
+            <idno type="OCLC">ocm 11788982</idno>
+            <idno type="VID">49151</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37104)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49151)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 491:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The duty of subjects reinforc't, especially in the choice of their representatives to sit in Parliament in a letter to a friend, occasioned by His Majesty's most gracious declaration in Council.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Clavell,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:49151:1"/>
+            <pb n="1" facs="tcp:49151:1" rendition="simple:additions"/>
+            <head>The Duty of Subjects REINFORC'T, Eſpecially in the Choice of Their Repreſentatives To Sit in PARLIAMENT, IN A LETTER to a FRIEND. Occaſioned by His MAJESTY's Moſt Gracious Declaration in Council.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have ſent you a Preſent here inclos'd; 'tis of ſmall Bulk, but of great Importance: Had ſuch a one been ſent you ſome Years ſince, when the Peoples Ears were fill'd with nothing elſe but <hi>Popery</hi> and <hi>Excluſion;</hi> and could you have had it well atteſted for Genuine and Au<g ref="char:EOLhyphen"/>thentick; you would have entertain'd it with a hearty Wel<g ref="char:EOLhyphen"/>come.</p>
+            <p>'Tis a Copy of His Majeſty's moſt <hi>Gracious Declaration;</hi> a Declaration ſo Mature and Seaſonable, ſo Full and Well-ad<g ref="char:EOLhyphen"/>vis'd, that we muſt not look upon it as the Crafty Artifice of a <hi>Politick <g ref="char:V">Ʋ</g>ſurper;</hi> nor as the violent <hi>Extortion</hi> of the Paſſionate and Miſtaken <hi>Faction</hi> that oppos'd him; but as the Natural Emanation of His <hi>Princely Mind</hi> and <hi>Heroick Generoſity,</hi> con<g ref="char:EOLhyphen"/>deſcending to obviate the affected Weakneſs of ſome, and to cure that which was really ſo in others.</p>
+            <p>Herein his Majeſty has done us the Honour to own our Affection to the <hi>Monarchy,</hi> and our Zeal in contending for the <hi>Government</hi> as now eſtabliſh'd in <hi>Church</hi> and <hi>State:</hi> and he is
+<pb n="2" facs="tcp:49151:2"/>pleas'd to remind us, That in his own Practice, to the utmoſt hazard of <hi>Life</hi> and <hi>Fortune,</hi> he made himſelf our <hi>Grand Exem<g ref="char:EOLhyphen"/>plar,</hi> when he was in the Station of a <hi>Subject.</hi> So that his <hi>Title</hi> to the <hi>Crown</hi> by <hi>Succeſſion,</hi> has been rarely embelliſh'd by his <hi>Merits.</hi> And <hi>This</hi> the Gratitude of the Nation did once ac<g ref="char:EOLhyphen"/>knowledge.</p>
+            <p>But what is more eminently remarkable, ev'n ſince the high<g ref="char:EOLhyphen"/>eſt <hi>Providence</hi> has cloth'd him with the <hi>Sovereign Power,</hi> he has prevented our Expectation, and gone before us in <hi>proteſt<g ref="char:EOLhyphen"/>ing</hi> his <hi>Pious Reſolutions,</hi> to maintain thoſe <hi>Intereſts</hi> of <hi>Religion</hi> and <hi>Property</hi> which we account the <hi>deareſt</hi> to us.</p>
+            <p>Obſerve his own Words; where, after a moſt endearing Promiſe to follow his late Majeſty's Example in <hi>Clemency</hi> and <hi>Tenderneſs to His People,</hi> he goes on: <hi>I have been reported to be a Man for Arbitrary Power; but that is not the onely Story has been made of me: And I ſhall make it my Endeavours to preſerve this Government both in Church and State, as it is now by Law Eſtabliſh'd. I know the Principles of the Church of</hi> England <hi>are for Monarchy, and the Members of it have ſhewed themſelves Good and Loyal Subjects; therefore I ſhall always take Care to Defend and Support it. I know too, That the Laws of</hi> England <hi>are ſuffici<g ref="char:EOLhyphen"/>ent to make the King as Great a Monarch as I can wiſh: And as I ſhall never depart from the Juſt Rights and Prerogative of the Crown, ſo I ſhall never invade any Mans Property; I have often heretofore ventured my Life in Defence of this Nation, and I ſhall ſtill go as far as any Man in preſerving it in all its Juſt Rights and Liberties.</hi>
+            </p>
+            <p>His inflexible Juſtice, with the rare Complexion of his other Princely Vertues, have worthily been admir'd with equal Love and Reverence; and theſe have hitherto been the Support of our <hi>Juſt Confidence:</hi> But now he has vouchſafed to give us his <hi>Royal Word,</hi> which flowing from a Voluntary Inclination to be Gracious, has hitherto had the <hi>Honour</hi> to be eſteem'd <hi>Inviolable and Sacred.</hi> We find that the moſt plauſible Pretences of Jea<g ref="char:EOLhyphen"/>louſie, in Men of honeſt Minds, do vaniſh into Dream and meer Deluſion; and we cannot but in reaſon acquieſce in ſuch Aſ<g ref="char:EOLhyphen"/>ſurance, with the Joy of a full and hearty <hi>Satisfaction.</hi>
+            </p>
+            <p>We know the <hi>Suggeſtions</hi> of <hi>Deſigners</hi> had rais'd a Prejudice ſo ſtrong in ſome Credulous and Well-meaning Perſons, that they grew too obſtinate to be driv'n to their Duty; but we doubt not ſuch Encouragements as have been freely heap'd upon them, will in a little time melt the moſt Obdurate, and
+<pb n="3" facs="tcp:49151:2"/>make them grow ſo tractable, as to be won, and eaſily led by the <hi>Attractive</hi> of ſuch Great and Wiſe <hi>Examples.</hi>
+            </p>
+            <p>In ſhort, We ſee, Sir, that the God of Peace and Order has been pleas'd to decide the <hi>great Point</hi> of <hi>Succeſſion</hi> by his own good <hi>Providence,</hi> according to his own <hi>ſtanding Law</hi> and <hi>Ordi<g ref="char:EOLhyphen"/>nance:</hi> Herein, he never call'd upon his <hi>Royal Highneſs</hi> to enter a Caution for his <hi>Good Behaviour,</hi> which ſeems to be a ſufficient Baffle to the Wit and Malice of all <hi>fierce Excluders.</hi>
+            </p>
+            <p>His <hi>Royal Highneſs</hi> has not been very forward to declare himſelf in the matter of this <hi>Debate,</hi> and his <hi>Reſervedneſs</hi> has been made a <hi>Riddle,</hi> and ſubject to as many <hi>Readings</hi> and <hi>De<g ref="char:EOLhyphen"/>ſcants,</hi> as Mens Fancy or Humour can invent.</p>
+            <p>I ſhall only obſerve this in the Caſe. Some Men have their private <hi>Sentiments,</hi> which they will not generally be oblig'd to account for: thô ſuch Men be ſingular in their Carriage, yet their <hi>Deſign</hi> may be very innocent, and free from miſchief.</p>
+            <p>That the <hi>Proteſtant Party</hi> is of ſome moment in ſwaying the Ballance of <hi>Chriſtendom,</hi> is no Secret; and if the <hi>Church of England</hi> be of any advantage to His <hi>Majeſty</hi> herein, as no doubt it is (when Matters are duely weigh'd) we may be confident, he will not part with an Intereſt of that Importance for No<g ref="char:EOLhyphen"/>thing: Beſides, his great Experience tells him, that the Gates of Hell ſtand in the way to <hi>Rome,</hi> as well as to <hi>Churches</hi> of ano<g ref="char:EOLhyphen"/>ther <hi>Denomination;</hi> and 'tis not a <hi>blind Fate</hi> that can ſecure us from the Danger that threatens us from thence, but our own <hi>Diligence,</hi> and a prudent <hi>Conduct</hi> in the Duties of a <hi>Chriſtian Converſation.</hi> And we may take it for an infallible Maxim, That his <hi>Magnanimity,</hi> and the ſenſe of his own <hi>Greatneſs,</hi> will never ſuffer him to ſink ſo low, as to become a <hi>Vaſſal</hi> to his <hi>Holineſs,</hi> as their <hi>Canon-Law</hi> does make him.</p>
+            <p>What Meaſures the <hi>Diſſenters</hi> intend to take, we ſhall under<g ref="char:EOLhyphen"/>ſtand more certainly by their <hi>enſuing Election</hi> of <hi>Repreſenta<g ref="char:EOLhyphen"/>tives;</hi> for in ſuch voluntary and equivocal <hi>Generations,</hi> Men commonly follow the Fancy of their own <hi>Likeneſs,</hi> and we may ſay of ſuch, as the <hi>Pſalmiſt</hi> ſays of <hi>Idols, They that make them are like unto them, and ſo are all ſuch as put their truſt in them.</hi>
+            </p>
+            <p>We are ſure, ſuch as are well affected to the <hi>King</hi> and <hi>Church,</hi> will not chuſe their <hi>Enemies</hi> to vote in their Concerns; they will not be guilty of ſuch a <hi>Soloeciſm</hi> in their <hi>Practice:</hi> And is it probable, on the other ſide, that ſuch as have been in <hi>actual Rebellion</hi> againſt the <hi>Crown,</hi> and have made a Spoil of <hi>all Sa<g ref="char:EOLhyphen"/>cred
+<pb n="4" facs="tcp:49151:3"/>Eſtabliſhments</hi> in the <hi>Church,</hi> and embroyl'd their <hi>Native Country</hi> in a brutiſh Confuſion; is it probable that ſuch Men ſhould be fit Inſtruments to ſettle us in that Splendour and Tranquillity which ſo Ancient and Renown'd a <hi>Monarchy</hi> may juſtly challenge? He that reflects upon the Havock ſuch Men have lately made amongſt us, if he be well in his Wits, can ne'r believe it.</p>
+            <p>I muſt not be underſtood of ſuch as have ſeen their Errour, and retracted it; but of the hardy, and unrelenting: and you may aſſure your ſelf, ſuch whoſe Fingers are ſtill itching at <hi>Church-Lands,</hi> and the Revenue of the <hi>Crown;</hi> ſuch as can ſerve <hi>God</hi> by none but a <hi>Model</hi> of their own <hi>conceiving,</hi> and have Worldly Ends to ſerve by ſuch <hi>Means;</hi> they'll ſtill Sail as the Wind ſerves, by the ſame <hi>Compaſs.</hi>
+            </p>
+            <p>Indeed the <hi>Scheme</hi> of their <hi>Principles</hi> is ſo legible in the <hi>Commentaries</hi> which they have put upon them by their <hi>Pra<g ref="char:EOLhyphen"/>ctice;</hi> and their <hi>Hypocriſie</hi> is ſo groſly betray'd by their Con<g ref="char:EOLhyphen"/>tradictions; and their <hi>Perſons</hi> ſo expos'd to the ſhame and ſcorn of all <hi>Loyal</hi> and <hi>Honeſt Men;</hi> that in <hi>very</hi> Modeſty, at leaſt for one <hi>whole Age,</hi> they ought to <hi>retire</hi> behind the <hi>Curtain</hi> to fur<g ref="char:EOLhyphen"/>niſh themſelves with new habits of <hi>Diſguiſe,</hi> and dreſs up their <hi>Scenes</hi> of <hi>Sedition</hi> with <hi>freſh Pretences,</hi> before they venture to act the <hi>ſame Part</hi> over a <hi>ſecond time.</hi>
+            </p>
+            <p>But if their <hi>Zeal</hi> does ſo far out-run their <hi>Wit</hi> and <hi>Policy,</hi> that they muſt needs bring their <hi>old Actors</hi> upon the <hi>Stage,</hi> to reherſe the <hi>Bloody Tragedy,</hi> and keep it ſtill in memory; or if they will be <hi>wheadling</hi> a freſh <hi>Set</hi> of <hi>Proſelytes</hi> to eſpouſe their <hi>Good Old Cauſe,</hi> and ſet on their <hi>young Cubs</hi> to take the <hi>Scent</hi> of the <hi>late Rebellion,</hi> and <hi>hunt</hi> upon't <hi>dry-foot;</hi> there's little to be ſaid to it: 'tis an <hi>evident Sign</hi> that the <hi>Republican Wheel</hi> is ſtill in motion, and their <hi>Myſtery of Iniquity</hi> very earneſt at work amongſt us; and our <hi>prudent</hi> and <hi>watchful Governours</hi> are highly concern'd to have an Eye open to obſerve it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Clavell,</hi> at the <hi>Peacock</hi> in St. <hi>Paul</hi>'s Church-yard. 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
